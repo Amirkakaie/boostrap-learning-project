@@ -4,3 +4,14 @@
 button{
     font-family: "Inter", serif;
 }
+.cards{
+    display: flex;
+    gap: 30px;
+    padding: 40px;
+}
+
+
+
+.label-cards{
+    padding: 10px;
+}
